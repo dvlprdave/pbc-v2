@@ -2,6 +2,7 @@
 title: Immutable objects with preventExtensions(), seal(), and freeze()
 author: David Quick
 date: 2019-10-27
+hero: ./images/immutable-objects.jpg
 excerpt: There are times where you'll have an object and want to preserve it's properties and restrict its behavior.
 ---
 

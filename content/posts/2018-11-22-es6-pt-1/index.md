@@ -2,6 +2,7 @@
 title: ES6 Debriefing Pt.1
 author: David Quick
 date: 2020-08-21
+hero: ./images/es6-debrief.jpg
 excerpt: Let's go over some of the avialable features in ES6 and cover what they do.  
 ---
 

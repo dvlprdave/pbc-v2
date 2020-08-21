@@ -2,6 +2,7 @@
 title: Theming with CSS variables
 author: David Quick
 date: 2020-01-31
+hero: ./images/css-theme.jpg
 excerpt: We'll look at CSS variables at a glance and then dive into a small project.
 ---
 

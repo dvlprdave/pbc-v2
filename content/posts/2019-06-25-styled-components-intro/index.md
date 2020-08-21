@@ -2,6 +2,7 @@
 title: An intro to Styled-Components
 author: David Quick
 date: 2020-08-21
+hero: ./images/styled-components.jpg
 excerpt: Styled-components is one of many ways to style React components. It allows us to use CSS directly in our components.
 ---
 

@@ -2,6 +2,7 @@
 title: Hoisting in JavaScript
 author: David Quick
 date: 2019-10-15
+hero: ./images/hoisting.jpg
 excerpt: I feel it's safe to say that hoisting in JavaScript leads to a lot of confusion.
 ---
 

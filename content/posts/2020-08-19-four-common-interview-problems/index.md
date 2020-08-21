@@ -1,6 +1,7 @@
 ---
 title: Four common JavaScript interview coding problems
 author: David Quick
+hero: ./images/js-interview.jpg
 date: 2020-08-19
 ---
 

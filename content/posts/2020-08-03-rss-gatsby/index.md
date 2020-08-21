@@ -2,6 +2,7 @@
 title: Dynamically loaded content with RSS and Gatsby
 author: David Quick
 date: 2019-11-14
+hero: ./images/rss-gatsby.jpg
 excerpt: In this guide, we'll utilize gatsby-plugin-feed to generate an RSS feed that contains blog posts from a Gatsby site.
 ---
 

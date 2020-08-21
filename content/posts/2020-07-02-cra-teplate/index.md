@@ -2,6 +2,7 @@
 title: Building your own Create React App template
 author: David Quick
 date: 2019-11-14
+hero: ./images/cra-template.jpg
 excerpt: Using CRA (create-react-app) is a convenient and fast way to get started on a React project.
 ---
 

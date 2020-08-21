@@ -2,6 +2,7 @@
 title: For..in vs For..of
 author: David Quick
 date: 2020-08-21
+hero: ./images/forin-forof.jpg
 excerpt: Let's clear something up that will hopefully help you understand the when and why of for..in and for..of  
 ---
 
