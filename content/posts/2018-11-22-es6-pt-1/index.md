@@ -26,7 +26,7 @@ declared within a pair of **{ }** is secured to that block.
 
 Take a look at the following example: 
 
-```javascript
+```js
 let underwaterAnimal = 🐋
 if (true) {
   let underwaterAnimal = 🐠
@@ -40,7 +40,7 @@ we recieve the global reference 🐋 rather than the block reference 🐠.
 
 However, we can reassign **underwaterAnimal** by doing the following: 
 
-```javascript
+```js
 let underwaterAnimal = 🐋
 
 underwaterAnimal = 🐠
@@ -58,7 +58,7 @@ constant variable. There is only a constant reference to the value.
 I'll touch on that in a moment though. Let's take a quick look at the 
 basis of const. 
 
-```javascript
+```js
 const farmAnimal = 🐓
 
 farmAnimal = 🐤
@@ -70,7 +70,7 @@ I mentioned before that the name const is slightly misleading. Although
 you aren't able to redeclare or reassign const, the value isn't 
 immutable (unchanging). 
 
-```javascript
+```js
 const car = {
   type:'Nissan',
   model:'Skyline',
@@ -99,7 +99,7 @@ detail. Pun intended 🙏🏼)
 Let's lay out a regular function and then its arrow function 
 equivalent.
 
-```javascript
+```js
 // Regular function
 function policeCar() {
   console.log(🚓)
@@ -116,7 +116,7 @@ const policeCar = () => console.log(🚓)
 Say we want to multiply the number of a parameter and use the 
 shortest written form of an arrow function, we'd do the following:
 
-```javascript
+```js
 const doubleNumber = (number) => { number *2 }
 
 // Without parentheses and curly braces
@@ -151,7 +151,7 @@ it. Head over to your browser, open up a new
 tab, then open the "inspect element" tool. 
 Type the following into the console: 
 
-```javascript
+```js
  console.log(this) // You'll see the window object appear.
  ``` 
 
@@ -166,7 +166,7 @@ a function or method is being invoked upon.
 2. Always look at the scope (where something sits) 
 of the invoked function or method.
 
-```javascript
+```js
 const 🍔 = {
   extraTopping: 'bacon',
   showTopping: function() {
@@ -186,7 +186,7 @@ invoked upon (🍔 object).
 If we go deeper and add a function to our method and 
 try to access **this** let's see what we get. 
 
-```javascript
+```js
 const 🍔 = {
   extraTopping: 'bacon',
   sides: ['fries', 'onion rings'],
@@ -216,7 +216,7 @@ of the methods inner function and set it to **this**. Or, you'd have
 to use **bind** on the method. We've come upon simpler times, so 
 there's no need for all of that. 🙏🏼  
 
-```javascript
+```js
 const 🍔 = {
   extraTopping: 'bacon',
   sides: ['fries', 'onion rings'],

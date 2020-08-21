@@ -7,11 +7,11 @@ excerpt: Let's clear something up that will hopefully help you understand the wh
 
 Let's clear something up that will hopefully help you understand the when and why of for..in and for..of before we dive into any examples.
 
-In JavaScript, we have something called **iterables**. It's simply a data structure that allows you to access a collection of data sequentially. When we go over that data one by one, its called **iteration**.
+In js, we have something called **iterables**. It's simply a data structure that allows you to access a collection of data sequentially. When we go over that data one by one, its called **iteration**.
 
 Iterables are arrays and strings, as they are collections that have an order.
 
-Under the hood, JavaScript has given a method to these iterables called `Symbol.iterator`. This is all built in and is what allows arrays and strings to be iterables without having to do anything to make them so.
+Under the hood, js has given a method to these iterables called `Symbol.iterator`. This is all built in and is what allows arrays and strings to be iterables without having to do anything to make them so.
  
 Great, now that you know what an iterable is, we can get to the core of this post. 
 
@@ -19,7 +19,7 @@ Great, now that you know what an iterable is, we can get to the core of this pos
 Used to loop through properties on an object.  
 Let's take a look at the syntax and then dive into an example.
 
-```javascript
+```js
 for (variable in object) {...}
 ```
 
@@ -27,7 +27,7 @@ The variable (you can name this anything you'd like) is assigned to the current 
 
 The second half is the name of the actual object you want to loop through.
 
-```javascript
+```js
 let car = {
   make: 'Nissan',
   model: 'Skyline'
@@ -42,7 +42,7 @@ for (let property in car) {
 
 Above, we only retrieved the keys of the object. To retrieve the value, we have to do the following
 
-```javascript
+```js
 for (let property in car) {
   console.log(car[property])
 }
@@ -54,7 +54,7 @@ for (let property in car) {
 Used to loop over iterable values (cannot be used on objects).
 The syntax follows the same convention as **for..in** aside from changing "in" to "of".
 
-```javascript
+```js
 const people = ['Ashley', 'Mark', 'Jen', 'Devin']
 
 for (const name of people) {

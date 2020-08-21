@@ -13,7 +13,7 @@ Styled-components is one of many (my favorite) ways to style React components. I
 
 Let's take a surface look at styled-components while using this header component as an example:
 
-```javascript
+```js
 const Header = styled.div`
     display: flex;
     background: #fff;
@@ -63,13 +63,13 @@ Let's add styled-components to our project by entering the following in the term
 
  Once that's done, create a component named **Header.jsx** and then import styled-components.
 
-```javascript
+```js
 import styled from 'styled-components';
 ```
 
 Now that we have that in place, you can use your new styled component. 
 
-```javascript
+```js
 import React from "react"
 import styled from 'styled-components'
 
