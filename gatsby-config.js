@@ -1,21 +1,22 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
+    title: `PapaBearCodes`,
+    name: `PapaBearCodes`,
+    siteUrl: `https://papabearcodes.com`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Hi ✌️,
+      I'm Dave. A Web Developer and writer in the Front-End landscape.`,
       maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/papabearcodes`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/dvlprdave`,
       },
       {
         name: `instagram`,
