@@ -19,16 +19,8 @@ module.exports = {
         url: `https://github.com/dvlprdave`,
       },
       {
-        name: `instagram`,
-        url: `https://instagram.com/narative.co`,
-      },
-      {
         name: `linkedin`,
         url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
       },
     ],
   },
