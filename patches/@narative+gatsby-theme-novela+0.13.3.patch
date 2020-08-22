@@ -1,0 +1,475 @@
+diff --git a/node_modules/@narative/gatsby-theme-novela/CHANGELOG.md b/node_modules/@narative/gatsby-theme-novela/CHANGELOG.md
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/README.md b/node_modules/@narative/gatsby-theme-novela/README.md
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/contentful/contentful-export.json b/node_modules/@narative/gatsby-theme-novela/contentful/contentful-export.json
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/gatsby-browser.js b/node_modules/@narative/gatsby-theme-novela/gatsby-browser.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/gatsby-config.js b/node_modules/@narative/gatsby-theme-novela/gatsby-config.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/gatsby-node.js b/node_modules/@narative/gatsby-theme-novela/gatsby-node.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/index.js b/node_modules/@narative/gatsby-theme-novela/index.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Anchor/Anchor.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/Anchor/Anchor.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Anchor/index.ts b/node_modules/@narative/gatsby-theme-novela/src/components/Anchor/index.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Bio/Bio.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/Bio/Bio.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Bio/index.ts b/node_modules/@narative/gatsby-theme-novela/src/components/Bio/index.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Blockquote/Blockquote.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/Blockquote/Blockquote.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Blockquote/index.ts b/node_modules/@narative/gatsby-theme-novela/src/components/Blockquote/index.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Code/Code.Pre.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/Code/Code.Pre.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Code/Code.Prism.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/Code/Code.Prism.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Code/index.ts b/node_modules/@narative/gatsby-theme-novela/src/components/Code/index.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Figcaption/Figcaption.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/Figcaption/Figcaption.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Figcaption/index.ts b/node_modules/@narative/gatsby-theme-novela/src/components/Figcaption/index.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Headings/Headings.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/Headings/Headings.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Headings/index.ts b/node_modules/@narative/gatsby-theme-novela/src/components/Headings/index.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/HorizontalRule/HorizontalRule.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/HorizontalRule/HorizontalRule.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/HorizontalRule/index.ts b/node_modules/@narative/gatsby-theme-novela/src/components/HorizontalRule/index.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Image/Image.Placeholder.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/Image/Image.Placeholder.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Image/Image.Zoom.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/Image/Image.Zoom.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Image/Image.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/Image/Image.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Image/index.ts b/node_modules/@narative/gatsby-theme-novela/src/components/Image/index.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Layout/Layout.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/Layout/Layout.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Layout/index.ts b/node_modules/@narative/gatsby-theme-novela/src/components/Layout/index.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Lists/List.Ordered.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/Lists/List.Ordered.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Lists/List.Unordered.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/Lists/List.Unordered.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Lists/index.ts b/node_modules/@narative/gatsby-theme-novela/src/components/Lists/index.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Logo/Logo.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/Logo/Logo.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Logo/index.ts b/node_modules/@narative/gatsby-theme-novela/src/components/Logo/index.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/MDX/MDX.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/MDX/MDX.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/MDX/index.ts b/node_modules/@narative/gatsby-theme-novela/src/components/MDX/index.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Navigation/Navigation.Footer.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/Navigation/Navigation.Footer.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Navigation/Navigation.Header.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/Navigation/Navigation.Header.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Navigation/Navigation.Paginator.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/Navigation/Navigation.Paginator.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Navigation/index.ts b/node_modules/@narative/gatsby-theme-novela/src/components/Navigation/index.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Paragraph/Paragraph.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/Paragraph/Paragraph.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Paragraph/index.ts b/node_modules/@narative/gatsby-theme-novela/src/components/Paragraph/index.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Progress/Progress.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/Progress/Progress.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Progress/index.ts b/node_modules/@narative/gatsby-theme-novela/src/components/Progress/index.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/SEO/SEO.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/SEO/SEO.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/SEO/index.ts b/node_modules/@narative/gatsby-theme-novela/src/components/SEO/index.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Section/Section.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/Section/Section.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Section/index.ts b/node_modules/@narative/gatsby-theme-novela/src/components/Section/index.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/SocialLinks/SocialLinks.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/SocialLinks/SocialLinks.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/SocialLinks/index.ts b/node_modules/@narative/gatsby-theme-novela/src/components/SocialLinks/index.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Subscription/Subscription.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/Subscription/Subscription.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Subscription/index.ts b/node_modules/@narative/gatsby-theme-novela/src/components/Subscription/index.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Tables/Table.Cell.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/Tables/Table.Cell.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Tables/Table.Head.Cell.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/Tables/Table.Head.Cell.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Tables/Table.Head.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/Tables/Table.Head.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Tables/Table.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/Tables/Table.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Tables/index.ts b/node_modules/@narative/gatsby-theme-novela/src/components/Tables/index.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Transitions/Transitions.CSS.FadeIn.tsx b/node_modules/@narative/gatsby-theme-novela/src/components/Transitions/Transitions.CSS.FadeIn.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/components/Transitions/index.ts b/node_modules/@narative/gatsby-theme-novela/src/components/Transitions/index.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/gatsby-plugin-theme-ui/colors.ts b/node_modules/@narative/gatsby-theme-novela/src/gatsby-plugin-theme-ui/colors.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/gatsby-plugin-theme-ui/index.ts b/node_modules/@narative/gatsby-theme-novela/src/gatsby-plugin-theme-ui/index.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/gatsby-plugin-theme-ui/prism.ts b/node_modules/@narative/gatsby-theme-novela/src/gatsby-plugin-theme-ui/prism.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/gatsby-plugin-theme-ui/tags.ts b/node_modules/@narative/gatsby-theme-novela/src/gatsby-plugin-theme-ui/tags.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/gatsby/browser/onInitialClientRender.js b/node_modules/@narative/gatsby-theme-novela/src/gatsby/browser/onInitialClientRender.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/gatsby/browser/onRouteUpdate.js b/node_modules/@narative/gatsby-theme-novela/src/gatsby/browser/onRouteUpdate.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/gatsby/browser/shouldUpdateScroll.js b/node_modules/@narative/gatsby-theme-novela/src/gatsby/browser/shouldUpdateScroll.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/gatsby/data/data.normalize.js b/node_modules/@narative/gatsby-theme-novela/src/gatsby/data/data.normalize.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/gatsby/data/data.query.js b/node_modules/@narative/gatsby-theme-novela/src/gatsby/data/data.query.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/gatsby/node/createPages.js b/node_modules/@narative/gatsby-theme-novela/src/gatsby/node/createPages.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/gatsby/node/createResolvers.js b/node_modules/@narative/gatsby-theme-novela/src/gatsby/node/createResolvers.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/gatsby/node/createSchemaCustomization.js b/node_modules/@narative/gatsby-theme-novela/src/gatsby/node/createSchemaCustomization.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/gatsby/node/onCreateNode.js b/node_modules/@narative/gatsby-theme-novela/src/gatsby/node/onCreateNode.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/gatsby/node/onCreateWebpackConfig.js b/node_modules/@narative/gatsby-theme-novela/src/gatsby/node/onCreateWebpackConfig.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/gatsby/node/onPreBootstrap.js b/node_modules/@narative/gatsby-theme-novela/src/gatsby/node/onPreBootstrap.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/gatsby/node/sourceNodes.js b/node_modules/@narative/gatsby-theme-novela/src/gatsby/node/sourceNodes.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/icons/index.ts b/node_modules/@narative/gatsby-theme-novela/src/icons/index.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/icons/social/Behance.Icon.tsx b/node_modules/@narative/gatsby-theme-novela/src/icons/social/Behance.Icon.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/icons/social/DevTo.Icon.tsx b/node_modules/@narative/gatsby-theme-novela/src/icons/social/DevTo.Icon.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/icons/social/DigitalOcean.Icon.tsx b/node_modules/@narative/gatsby-theme-novela/src/icons/social/DigitalOcean.Icon.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/icons/social/Dribbble.Icon.tsx b/node_modules/@narative/gatsby-theme-novela/src/icons/social/Dribbble.Icon.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/icons/social/Facebook.Icon.tsx b/node_modules/@narative/gatsby-theme-novela/src/icons/social/Facebook.Icon.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/icons/social/Github.Icon.tsx b/node_modules/@narative/gatsby-theme-novela/src/icons/social/Github.Icon.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/icons/social/Instagram.Icon.tsx b/node_modules/@narative/gatsby-theme-novela/src/icons/social/Instagram.Icon.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/icons/social/LinkedIn.Icon.tsx b/node_modules/@narative/gatsby-theme-novela/src/icons/social/LinkedIn.Icon.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/icons/social/Medium.Icon.tsx b/node_modules/@narative/gatsby-theme-novela/src/icons/social/Medium.Icon.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/icons/social/Patreon.Icon.tsx b/node_modules/@narative/gatsby-theme-novela/src/icons/social/Patreon.Icon.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/icons/social/Paypal.Icon.tsx b/node_modules/@narative/gatsby-theme-novela/src/icons/social/Paypal.Icon.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/icons/social/Stackoverflow.Icon.tsx b/node_modules/@narative/gatsby-theme-novela/src/icons/social/Stackoverflow.Icon.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/icons/social/Twitter.Icon.tsx b/node_modules/@narative/gatsby-theme-novela/src/icons/social/Twitter.Icon.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/icons/social/Unsplash.Icon.tsx b/node_modules/@narative/gatsby-theme-novela/src/icons/social/Unsplash.Icon.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/icons/social/YouTube.Icon.tsx b/node_modules/@narative/gatsby-theme-novela/src/icons/social/YouTube.Icon.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/icons/ui/ChevronLeft.Icon.tsx b/node_modules/@narative/gatsby-theme-novela/src/icons/ui/ChevronLeft.Icon.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/icons/ui/Copied.Icon.tsx b/node_modules/@narative/gatsby-theme-novela/src/icons/ui/Copied.Icon.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/icons/ui/Copy.Icon.tsx b/node_modules/@narative/gatsby-theme-novela/src/icons/ui/Copy.Icon.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/icons/ui/Ex.Icon.tsx b/node_modules/@narative/gatsby-theme-novela/src/icons/ui/Ex.Icon.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/icons/ui/Link.Icon.tsx b/node_modules/@narative/gatsby-theme-novela/src/icons/ui/Link.Icon.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/icons/ui/Rows.Icon.tsx b/node_modules/@narative/gatsby-theme-novela/src/icons/ui/Rows.Icon.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/icons/ui/Tiles.Icon.tsx b/node_modules/@narative/gatsby-theme-novela/src/icons/ui/Tiles.Icon.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/icons/ui/ToggleClose.Icon.tsx b/node_modules/@narative/gatsby-theme-novela/src/icons/ui/ToggleClose.Icon.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/icons/ui/ToggleOpen.Icon.tsx b/node_modules/@narative/gatsby-theme-novela/src/icons/ui/ToggleOpen.Icon.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/sections/article/Article.Aside.tsx b/node_modules/@narative/gatsby-theme-novela/src/sections/article/Article.Aside.tsx
+old mode 100644
+new mode 100755
+index d28c5f2..c59c554
+--- a/node_modules/@narative/gatsby-theme-novela/src/sections/article/Article.Aside.tsx
++++ b/node_modules/@narative/gatsby-theme-novela/src/sections/article/Article.Aside.tsx
+@@ -41,9 +41,9 @@ const Aside: React.FC<AsideProps> = ({ contentHeight, children }) => {
+   useEffect(() => {
+     const imageRect = document
+       .getElementById("ArticleImage__Hero")
+-      .getBoundingClientRect();
++    const imageOffset =  imageRect ? imageRect.getBoundingClientRect().top : 0;
+ 
+-    const imageOffsetFromTopOfWindow = imageRect.top + window.scrollY;
++    const imageOffsetFromTopOfWindow = imageOffset + window.scrollY;
+     setImageOffset(imageOffsetFromTopOfWindow);
+ 
+     const handleScroll = throttle(() => {
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/sections/article/Article.Authors.tsx b/node_modules/@narative/gatsby-theme-novela/src/sections/article/Article.Authors.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/sections/article/Article.Controls.tsx b/node_modules/@narative/gatsby-theme-novela/src/sections/article/Article.Controls.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/sections/article/Article.HandleOverlap.tsx b/node_modules/@narative/gatsby-theme-novela/src/sections/article/Article.HandleOverlap.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/sections/article/Article.Hero.tsx b/node_modules/@narative/gatsby-theme-novela/src/sections/article/Article.Hero.tsx
+old mode 100644
+new mode 100755
+index 192d0ce..c7816a1
+--- a/node_modules/@narative/gatsby-theme-novela/src/sections/article/Article.Hero.tsx
++++ b/node_modules/@narative/gatsby-theme-novela/src/sections/article/Article.Hero.tsx
+@@ -2,7 +2,6 @@ import React from 'react';
+ import styled from '@emotion/styled';
+ 
+ import Headings from '@components/Headings';
+-import Image, { ImagePlaceholder } from '@components/Image';
+ 
+ import mediaqueries from '@styles/media';
+ import { IArticle, IAuthor } from '@types';
+@@ -16,10 +15,6 @@ interface ArticleHeroProps {
+ 
+ const ArticleHero: React.FC<ArticleHeroProps> = ({ article, authors }) => {
+   const hasCoAUthors = authors.length > 1;
+-  const hasHeroImage =
+-    article.hero &&
+-    Object.keys(article.hero.full).length !== 0 &&
+-    article.hero.full.constructor === Object;
+ 
+   return (
+     <Hero>
+@@ -32,13 +27,6 @@ const ArticleHero: React.FC<ArticleHeroProps> = ({ article, authors }) => {
+           </ArticleMeta>
+         </HeroSubtitle>
+       </Header>
+-      <HeroImage id="ArticleImage__Hero">
+-        {hasHeroImage ? (
+-          <Image src={article.hero.full} />
+-        ) : (
+-          <ImagePlaceholder />
+-        )}
+-      </HeroImage>
+     </Hero>
+   );
+ };
+@@ -160,28 +148,3 @@ const HeroSubtitle = styled.div<{ hasCoAUthors: boolean }>`
+     }
+   `}
+ `;
+\ No newline at end of file
+-
+-const HeroImage = styled.div`
+-  position: relative;
+-  z-index: 1;
+-  width: 100%;
+-  max-width: 944px;
+-  overflow: hidden;
+-  margin: 0 auto;
+-  box-shadow: 0 30px 60px -10px rgba(0, 0, 0, 0.2),
+-    0 18px 36px -18px rgba(0, 0, 0, 0.22);
+-
+-  ${mediaqueries.tablet`
+-    max-width: 100%;
+-  `}
+-
+-  ${mediaqueries.phablet`
+-    margin: 0 auto;
+-    width: calc(100vw - 40px);
+-    height: 220px;
+-
+-    & > div {
+-      height: 220px;
+-    }
+-`}
+-`;
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/sections/article/Article.Next.tsx b/node_modules/@narative/gatsby-theme-novela/src/sections/article/Article.Next.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/sections/article/Article.SEO.tsx b/node_modules/@narative/gatsby-theme-novela/src/sections/article/Article.SEO.tsx
+old mode 100644
+new mode 100755
+index 933e1bb..2a6cffb
+--- a/node_modules/@narative/gatsby-theme-novela/src/sections/article/Article.SEO.tsx
++++ b/node_modules/@narative/gatsby-theme-novela/src/sections/article/Article.SEO.tsx
+@@ -52,7 +52,6 @@ const ArticleSEO: React.FC<ArticleSEOProps> = ({
+       "@id": "${siteUrl + location.pathname}"
+     },
+     "headline": "${article.title}",
+-    "image": "${siteUrl + article.hero.seo.src}",
+     "datePublished": "${article.dateForSEO}",
+     "dateModified": "${article.dateForSEO}",
+     "author": ${JSON.stringify(authorsData)},
+@@ -82,7 +81,6 @@ const ArticleSEO: React.FC<ArticleSEOProps> = ({
+     <SEO
+       title={article.title}
+       description={article.excerpt}
+-      image={article.hero.seo.src}
+       timeToRead={article.timeToRead}
+       published={article.date}
+       pathname={location.href}
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/sections/article/Article.Share.tsx b/node_modules/@narative/gatsby-theme-novela/src/sections/article/Article.Share.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/sections/articles/Articles.Hero.tsx b/node_modules/@narative/gatsby-theme-novela/src/sections/articles/Articles.Hero.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/sections/articles/Articles.List.Context.tsx b/node_modules/@narative/gatsby-theme-novela/src/sections/articles/Articles.List.Context.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/sections/articles/Articles.List.tsx b/node_modules/@narative/gatsby-theme-novela/src/sections/articles/Articles.List.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/sections/author/Author.Articles.tsx b/node_modules/@narative/gatsby-theme-novela/src/sections/author/Author.Articles.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/sections/author/Author.Hero.tsx b/node_modules/@narative/gatsby-theme-novela/src/sections/author/Author.Hero.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/styles/global.ts b/node_modules/@narative/gatsby-theme-novela/src/styles/global.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/styles/index.ts b/node_modules/@narative/gatsby-theme-novela/src/styles/index.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/styles/media.ts b/node_modules/@narative/gatsby-theme-novela/src/styles/media.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/templates/article.template.tsx b/node_modules/@narative/gatsby-theme-novela/src/templates/article.template.tsx
+old mode 100644
+new mode 100755
+index d733584..746a3bb
+--- a/node_modules/@narative/gatsby-theme-novela/src/templates/article.template.tsx
++++ b/node_modules/@narative/gatsby-theme-novela/src/templates/article.template.tsx
+@@ -122,7 +122,7 @@ const MobileControls = styled.div`
+ 
+ const ArticleBody = styled.article`
+   position: relative;
+-  padding: 160px 0 35px;
++  padding: 0 0 35px;
+   padding-left: 68px;
+   transition: background 0.2s linear;
+ 
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/templates/articles.template.tsx b/node_modules/@narative/gatsby-theme-novela/src/templates/articles.template.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/templates/author.template.tsx b/node_modules/@narative/gatsby-theme-novela/src/templates/author.template.tsx
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/types/index.d.ts b/node_modules/@narative/gatsby-theme-novela/src/types/index.d.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/types/store.d.ts b/node_modules/@narative/gatsby-theme-novela/src/types/store.d.ts
+old mode 100644
+new mode 100755
+diff --git a/node_modules/@narative/gatsby-theme-novela/src/utils/index.ts b/node_modules/@narative/gatsby-theme-novela/src/utils/index.ts
+old mode 100644
+new mode 100755
